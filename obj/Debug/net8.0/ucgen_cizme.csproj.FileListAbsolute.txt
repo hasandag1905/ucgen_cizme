@@ -56,3 +56,4 @@ C:\Users\Hasan\Documents\vscodes\ucgen_cizme\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\Hasan\Documents\vscodes\ucgen_cizme\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\Hasan\Documents\vscodes\ucgen_cizme\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Users\Hasan\Documents\vscodes\ucgen_cizme\obj\Debug\net8.0\ucgen_ci.61F795B7.Up2Date
+C:\Users\Hasan\Documents\vscodes\ucgen_cizme\obj\Debug\net8.0\ucgen_cizme.sourcelink.json

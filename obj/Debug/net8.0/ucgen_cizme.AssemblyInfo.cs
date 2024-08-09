@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ucgen_cizme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9e961938a6e2acdf3c9271f825689a3a2192c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ucgen_cizme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ucgen_cizme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
